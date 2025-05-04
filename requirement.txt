@@ -1,0 +1,6 @@
+pandas
+requests
+geopy
+python-dotenv
+fastapi
+uvicorn
